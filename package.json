@@ -20,7 +20,7 @@
   "homepage": "https://github.com/oaboluwarin/node-multer-s3#readme",
   "dependencies": {
     "aws-sdk": "^2.492.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongoose": "^5.6.4",
     "multer": "^1.4.1"
   },
